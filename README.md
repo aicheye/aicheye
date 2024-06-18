@@ -1,4 +1,5 @@
 ## Hi there 👋
+CCO participant 2025 fr ong
 🌱 I’m currently learning ReactJS and backend development
 📫 How to reach me: contact@seanyang.me
 
