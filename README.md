@@ -1,5 +1,6 @@
 ## Hi there 👋
-CCO participant 2025 fr ong
+🍁 CCO participant 2025 fr ong
+🔭 My #1 goal in life: HTN 2024
 🌱 I’m currently learning ReactJS and backend development
 📫 How to reach me: contact@seanyang.me
 
