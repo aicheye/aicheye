@@ -1,8 +1,4 @@
 ## Hi there 👋
-🍁 CCO participant 2025 fr ong\
-🔭 My #1 goal in life: HTN 2024\
-🌱 I’m currently learning ReactJS and backend development\
-📫 How to reach me: contact@seanyang.me
 
 <!--
 **aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
