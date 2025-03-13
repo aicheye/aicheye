@@ -1,7 +1,7 @@
 ## Hi there 👋
 High school student @AYJSS 🍁
 
-Incoming B.S.E. @UWaterloo 🪿
+Incoming Hons. Software Engineering @UWaterloo 🪿
 
 Passionate about competitive programming, robotics, and sustainable urbanism. My dream job is at the intersection of environmental issues and computer science. 
 
