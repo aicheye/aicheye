@@ -3,7 +3,7 @@ High school student @AYJSS 🍁
 
 Incoming Hons. Software Engineering @UWaterloo 🪿🩷💜
 
-Passionate about competitive programming, robotics, and sustainable urbanism. My dream job is at the intersection of environmental issues and computer science. 
+Passionate about competitive programming, robotics, and sustainable urbanism.
 
 <!--
 **aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
