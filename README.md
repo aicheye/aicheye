@@ -1,7 +1,7 @@
 ## Hi there 👋
-Incoming Honours Software Engineering @UWaterloo 🪿💛
-
-Passionate about competitive programming, robotics, and sustainable urbanism.
+Incoming Honours Software Engineering @ the University of Waterloo 🪿💛\
+Passionate coder 🧑‍💻, sustainable urbanist 🌿🏙️, and advocate for economic justice ⚖️🌹\
+Building a socially responsible career in software development
 
 <!--
 **aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
