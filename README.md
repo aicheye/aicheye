@@ -1,5 +1,6 @@
 ## Hi there 👋
 Incoming Honours Software Engineering @ the University of Waterloo 🪿💛\
+\
 Passionate coder 🧑‍💻, sustainable urbanist 🌿🏙️, and advocate for economic justice ⚖️🌹\
 Building a socially responsible career in software development
 
