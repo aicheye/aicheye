@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm an incoming Honours Software Engineering student at the University of Waterloo 🪿💛\
 \
-I'm also a passionate coder 🧑‍💻, sustainable urbanist 🌿🏙️, and advocate for economic justice ⚖️🌹 seeking to build a socially responsible career in software development.
+I'm also a passionate coder, sustainable urbanist, and advocate for economic justice seeking to build a socially responsible career in software development.
 
 <!--
 **aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
