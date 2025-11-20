@@ -1,7 +1,9 @@
 ## Hi there 👋
-I'm an Honours Software Engineering student at the University of Waterloo 🪿💛\
+I'm a 1A Honours Software Engineering student at the University of Waterloo 🪿💛\
 \
 I'm also a passionate coder, sustainable urbanist, and advocate for economic justice seeking to build a socially responsible career in software development.
+
+[Read more about me!](https://seanyang.me/)
 
 <!--
 **aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
