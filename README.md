@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a 1A Honours Software Engineering student at the University of Waterloo 🪿💛\
+I'm a 1B Honours Software Engineering student at the University of Waterloo 🪿💛\
 \
 I'm also a passionate coder, sustainable urbanist, and advocate for economic justice seeking to build a socially responsible career in software development.
 
