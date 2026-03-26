@@ -1,21 +1,63 @@
-## Hi there 👋
-I'm a 1B Honours Software Engineering student at the University of Waterloo 🪿💛\
-\
-I'm also a passionate coder, sustainable urbanist, and advocate for economic justice seeking to build a socially responsible career in software development.
+<div align="center">
 
-[Read more about me!](https://seanyang.me/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=hey%2C+i'm+sean+%F0%9F%91%8B;robotics+engineer;sustainable+urbanist;democratic+socialist;optimist;bse+%40+uwaterloo+%E2%80%A2+class+of+'30" alt="Typing SVG" />
 
-<!--
-**aicheye/aicheye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/seanyang.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seanyang.me)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```console
+$ ssh seanyang.me
+> Last login: Thu Mar 26 14:22:01 2026 from github.com
+
+╭─────────────────────────────────────────────────────────╮
+│                                                         │
+│   sean@seanyang.me:~$ whoami                            │
+│                                                         │
+│   Sean Yang :: student, software developer              │
+│                toronto → waterloo → san francisco       │
+│                                                         │
+│   sean@seanyang.me:~$ cat now.txt                       │
+│                                                         │
+│   Robotics SWE         @ WATonomous                     │
+│   Perception Intern    @ moss (incoming)                │
+│                                                         │
+│   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
+│                                                         │
+│   BSE @ University of Waterloo · Class of '30           │
+│   [██░░░░░░░░░░░░░░░░░░] 12%  ·  7 terms to go          │
+│                                                         │
+│   sean@seanyang.me:~$ █                                 │
+│                                                         │
+╰─────────────────────────────────────────────────────────╯
+```
+
+---
+
+## stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+## projects
+
+| | project | description | stack |
+|--|---------|-------------|-------|
+| 🤖 | [swarm_ws](https://github.com/RRohan4/swarm_ws) | robotic swarm maze exploration | Python · ROS 2 · Docker |
+| 🦀 | [CRusTTY](https://github.com/aicheye/crustty) | TUI C interpreter, built from scratch | Rust · C |
+| 📈 | [Wunder RNN](https://github.com/aicheye/wundernn) | top 5% market prediction model | Python · ML · Jupyter |
+| ⚔️ | [combat-tag](https://github.com/aicheye/combat-tag) | minecraft mod · 1000+ downloads | Java · Gradle |
+| 🪣 | [bucket](https://github.com/aicheye/bucket) | intuitive student dashboard | TS · React · GraphQL |
+| 🕹️ | [ezp2p](https://github.com/aicheye/ezp2p) | p2p serverless minigames | TS · Vite · WebRTC |
+
+---
+
+```
+░██   the secret of getting ahead
+█░█   is getting started.
+░░█ 
+```
