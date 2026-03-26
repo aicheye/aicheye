@@ -9,9 +9,7 @@
 ---
 
 ```console
-$ ssh seanyang.me
 > Last login: Thu Mar 26 14:22:01 2026 from github.com
-
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
 │   sean@seanyang.me:~$ whoami                            │
