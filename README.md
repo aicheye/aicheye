@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=hey%2C+i'm+sean+%F0%9F%91%8B;robotics+engineer;sustainable+urbanist;democratic+socialist;optimist;bse+%40+uwaterloo+%E2%80%A2+class+of+'30" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=hey%2C+i'm+sean+!;robotics+engineer;sustainable+urbanist;democratic+socialist;optimist;bse+%40+uwaterloo+%E2%80%A2+class+of+'30" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/seanyang.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seanyang.me)
+
+![](https://komarev.com/ghpvc/?username=aicheye)
 
 </div>
 
