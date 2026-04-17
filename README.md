@@ -27,7 +27,7 @@
 │   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
 │   BSE @ University of Waterloo · Class of '30           │
-│   [██░░░░░░░░░░░░░░░░░░] 12%  ·  7 terms to go          │
+│   [██░░░░░░░░░░░░░░░░░░] 13%  ·  7 terms to go          │
 │                                                         │
 │   sean@seanyang.me:~$ █                                 │
 │                                                         │
