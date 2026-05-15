@@ -21,13 +21,12 @@
 │                                                         │
 │   sean@seanyang.me:~$ cat now.txt                       │
 │                                                         │
-│   Robotics SWE         @ WATonomous                     │
-│   Perception Intern    @ moss (incoming)                │
+│   Perception Intern    @ moss                           │
 │                                                         │
 │   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
 │   BSE @ University of Waterloo · Class of '30           │
-│   [██░░░░░░░░░░░░░░░░░░] 13%  ·  7 terms to go          │
+│   [██░░░░░░░░░░░░░░░░░░] 13%  ·  6 terms to go          │
 │                                                         │
 │   sean@seanyang.me:~$ █                                 │
 │                                                         │
