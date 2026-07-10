@@ -1,14 +1,14 @@
 #!/usr/bin/env node
-// Refreshes the profile README's "current role" line and degree-progress bar
-// from data published on seanyang.me and served via jsDelivr (@main).
+// Refreshes the profile README's "current role" line and degree-progress bar.
 //
-//   role     <- public/data/jobs.json   (entry with "current": true)
-//   progress <- public/data/degree.json (start/end window -> % elapsed)
+//   role     <- seanyang.me public/data/jobs.json via jsDelivr (@main),
+//               the entry with "current": true
+//   progress <- the hardcoded DEGREE window below -> % elapsed
 //
 // The README console block is a fixed-width Unicode box: every content row is
 // `│` + 57 display columns + `│`. We rewrite only the dynamic rows and re-pad
 // them so the box stays aligned. Run with LOCAL_DATA_DIR=<path> to read the
-// JSON from disk instead of the network (used for local testing).
+// jobs JSON from disk instead of the network (used for local testing).
 
 import { readFile, writeFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
@@ -19,6 +19,10 @@ const README_PATH = path.join(REPO_ROOT, 'README.md')
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/aicheye/seanyang.me@main/public/data'
 const INNER_WIDTH = 57 // display columns between the box borders
 const BAR_CELLS = 20
+
+// UWaterloo BSE '30 degree window (mirrors src/app/components/TermProgress.tsx
+// on seanyang.me). Update here if the program dates change.
+const DEGREE = { start: '2025-09-01', end: '2030-05-01' }
 
 async function loadData(name) {
   const localDir = process.env.LOCAL_DATA_DIR
@@ -99,10 +103,10 @@ function updateReadme(readme, { role, pct, now }) {
 
 async function main() {
   const now = new Date()
-  const [jobs, degree] = await Promise.all([loadData('jobs.json'), loadData('degree.json')])
+  const jobs = await loadData('jobs.json')
 
   const role = currentRole(jobs)
-  const pct = progressPct(degree, now.getTime())
+  const pct = progressPct(DEGREE, now.getTime())
 
   const readme = await readFile(README_PATH, 'utf8')
   const updated = updateReadme(readme, { role, pct, now })

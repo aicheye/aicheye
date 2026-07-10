@@ -1,7 +1,8 @@
 name: Daily role & degree sync
 
-# Refreshes the profile README each day: current role (jobs.json) and degree
-# progress % (degree.json), both pulled from seanyang.me via jsDelivr @main.
+# Refreshes the profile README each day: current role from seanyang.me
+# jobs.json (via jsDelivr @main) and degree progress % from the hardcoded
+# window in scripts/update-readme.mjs.
 on:
   schedule:
     - cron: '17 8 * * *' # 08:17 UTC daily
