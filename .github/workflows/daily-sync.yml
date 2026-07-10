@@ -1,0 +1,41 @@
+name: Daily role & degree sync
+
+# Refreshes the profile README each day: current role (jobs.json) and degree
+# progress % (degree.json), both pulled from seanyang.me via jsDelivr @main.
+on:
+  schedule:
+    - cron: '17 8 * * *' # 08:17 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update README from seanyang.me data
+        run: node scripts/update-readme.mjs
+
+      - name: Commit changes
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- README.md; then
+            echo 'No README changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'chore: sync role & degree progress'
+          git push
