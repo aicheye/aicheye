@@ -17,7 +17,7 @@
 │   sean@seanyang.me:~$ whoami                            │
 │                                                         │
 │   Sean Yang :: student, software developer              │
-│                toronto → waterloo / bay area            │
+│                toronto → waterloo / san francisco       │
 │                                                         │
 │   sean@seanyang.me:~$ cat now.txt                       │
 │                                                         │
