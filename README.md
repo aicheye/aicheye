@@ -11,7 +11,7 @@
 ---
 
 ```console
-> Last login: Sun Jul 12 10:02:24 2026 from github.com
+> Last login: Mon Jul 13 11:30:48 2026 from github.com
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
 │   sean@seanyang.me:~$ whoami                            │
@@ -26,7 +26,7 @@
 │   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
 │   BSE @ UWaterloo · Class of '30                        │
-│   [████░░░░░░░░░░░░░░░░] 18%                            │
+│   [████░░░░░░░░░░░░░░░░] 19%                            │
 │                                                         │
 │   sean@seanyang.me:~$ █                                 │
 │                                                         │
