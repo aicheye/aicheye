@@ -11,7 +11,7 @@
 ---
 
 ```console
-> Last login: Tue Jul 14 10:11:54 2026 from github.com
+> Last login: Wed Jul 15 10:16:20 2026 from github.com
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
 │   sean@seanyang.me:~$ whoami                            │
@@ -21,7 +21,7 @@
 │                                                         │
 │   sean@seanyang.me:~$ cat now.txt                       │
 │                                                         │
-│   Robotics Perception Intern @ moss                     │
+│   Perception Engineering Intern @ moss                  │
 │                                                         │
 │   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
