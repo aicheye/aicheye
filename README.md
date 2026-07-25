@@ -11,7 +11,7 @@
 ---
 
 ```console
-> Last login: Fri Jul 24 10:28:55 2026 from github.com
+> Last login: Sat Jul 25 10:01:36 2026 from github.com
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
 │   sean@seanyang.me:~$ whoami                            │
