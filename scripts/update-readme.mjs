@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Refreshes the profile README's "current role" line and degree-progress bar.
 //
-//   role     <- seanyang.me public/data/jobs.json via jsDelivr (@main),
+//   role     <- seanyang.ca public/data/jobs.json via jsDelivr (@main),
 //               the entry with "current": true
 //   progress <- the hardcoded DEGREE window below -> % elapsed
 //
@@ -16,12 +16,12 @@ import path from 'node:path'
 
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const README_PATH = path.join(REPO_ROOT, 'README.md')
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/aicheye/seanyang.me@main/public/data'
+const CDN_BASE = 'https://cdn.jsdelivr.net/gh/aicheye/seanyang.ca@main/public/data'
 const INNER_WIDTH = 57 // display columns between the box borders
 const BAR_CELLS = 20
 
 // UWaterloo BSE '30 degree window (mirrors src/app/components/TermProgress.tsx
-// on seanyang.me). Update here if the program dates change.
+// on seanyang.ca). Update here if the program dates change.
 const DEGREE = { start: '2025-09-01', end: '2030-05-01' }
 
 async function loadData(name) {
