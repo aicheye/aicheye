@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=false&width=520&lines=hey%2C+i'm+sean+!;robotics+engineer;sustainable+urbanist;democratic+socialist;optimist;bse+%40+uwaterloo+%E2%80%A2+class+of+'30" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/seanyang.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seanyang.me)
+[![Website](https://img.shields.io/badge/seanyang.ca-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://seanyang.ca)
 
 ![](https://komarev.com/ghpvc/?username=aicheye)
 
@@ -14,21 +14,21 @@
 > Last login: Wed Aug 12 09:32:55 2026 from github.com
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
-│   sean@seanyang.me:~$ whoami                            │
+│   sean@seanyang.ca:~$ whoami                            │
 │                                                         │
 │   Sean Yang :: student, engineer                        │
 │                toronto → waterloo / san francisco       │
 │                                                         │
-│   sean@seanyang.me:~$ cat now.txt                       │
+│   sean@seanyang.ca:~$ cat now.txt                       │
 │                                                         │
 │   Perception Engineering Intern @ moss                  │
 │                                                         │
-│   sean@seanyang.me:~$ echo $DEGREE_PROGRESS             │
+│   sean@seanyang.ca:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
 │   BSE @ UWaterloo · Class of '30                        │
 │   [████░░░░░░░░░░░░░░░░] 20%                            │
 │                                                         │
-│   sean@seanyang.me:~$ █                                 │
+│   sean@seanyang.ca:~$ █                                 │
 │                                                         │
 ╰─────────────────────────────────────────────────────────╯
 ```
