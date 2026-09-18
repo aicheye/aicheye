@@ -21,7 +21,7 @@
 │                                                         │
 │   sean@seanyang.ca:~$ cat now.txt                       │
 │                                                         │
-│   Perception Engineering Intern @ moss                  │
+│   Robotics Software Engineer @ WATonomous               │
 │                                                         │
 │   sean@seanyang.ca:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
