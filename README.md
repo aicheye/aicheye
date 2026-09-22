@@ -11,7 +11,7 @@
 ---
 
 ```console
-> Last login: Mon Sep 21 15:07:48 2026 from github.com
+> Last login: Tue Sep 22 06:05:47 2026 from github.com
 ╭─────────────────────────────────────────────────────────╮
 │                                                         │
 │   sean@seanyang.ca:~$ whoami                            │
@@ -21,7 +21,7 @@
 │                                                         │
 │   sean@seanyang.ca:~$ cat now.txt                       │
 │                                                         │
-│   Perception Engineering Intern @ moss                  │
+│   Research Assistant @ UWaterloo                        │
 │                                                         │
 │   sean@seanyang.ca:~$ echo $DEGREE_PROGRESS             │
 │                                                         │
